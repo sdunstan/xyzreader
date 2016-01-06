@@ -21,6 +21,15 @@
             android:paddingBottom="28dp" />
     </android.support.v4.widget.SwipeRefreshLayout>
 
+    <android.support.design.widget.CoordinatorLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+    </android.support.design.widget.CoordinatorLayout>
+
     <FrameLayout
         android:id="@+id/toolbar_container"
         android:layout_width="match_parent"
